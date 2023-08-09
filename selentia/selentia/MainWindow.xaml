@@ -51,7 +51,7 @@
                     <!-- Music Icon -->
                     <Border CornerRadius="10" Background="#E9B384" Margin="25" 
                             Height="250">
-                        <Image Source="Assets/music.png" ></Image>
+                        <Image Source="Assets/music.png"/>
                     </Border>
                     <!-- Buttons -->
                     <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="100">

@@ -82,8 +82,12 @@
         <None Include="App.config"/>
     </ItemGroup>
     <ItemGroup>
-      <Resource Include="Assets\folder.png" />
-      <Resource Include="Assets\music.png" />
+      <Resource Include="Assets\folder.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Resource>
+      <Resource Include="Assets\music.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Resource>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
 </Project>
