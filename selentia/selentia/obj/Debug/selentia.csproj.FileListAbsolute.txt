@@ -1,0 +1,16 @@
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\bin\Debug\selentia.exe.config
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\bin\Debug\selentia.exe
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\bin\Debug\selentia.pdb
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\obj\Debug\selentia.csproj.AssemblyReference.cache
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\obj\Debug\selentia.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\obj\Debug\MainWindow.g.cs
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\obj\Debug\App.g.cs
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\obj\Debug\selentia_MarkupCompile.cache
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\obj\Debug\selentia_MarkupCompile.lref
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\obj\Debug\MainWindow.baml
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\obj\Debug\selentia.g.resources
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\obj\Debug\selentia.Properties.Resources.resources
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\obj\Debug\selentia.csproj.GenerateResource.cache
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\obj\Debug\selentia.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\obj\Debug\selentia.exe
+C:\Users\ivanp\Desktop\Programming\selentia\selentia\selentia\obj\Debug\selentia.pdb

@@ -7,5 +7,73 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="600" Width="400"
         SizeToContent="WidthAndHeight" ResizeMode="NoResize">
-        
+    <Window.Resources>
+        <Style TargetType="Label">
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+            <Setter Property="VerticalContentAlignment" Value="Center" />
+        </Style>
+        <Style TargetType="Button">
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5" />
+                </Style>
+            </Style.Resources>
+        </Style>
+    </Window.Resources>
+    
+    <StackPanel>
+        <!-- Logo -->
+        <Label Height="100" Width="400" Background="#7C9D96"
+               Foreground="#F4F2DE" FontSize="40" >
+                LOGO
+        </Label>
+        <!-- Body -->
+        <Label Height="450" Width="400" Background="#F4F2DE"
+               Foreground="#7C9D96">
+            <Border CornerRadius="8" Background="#7C9D96"
+                    Height="430" Width="380">
+                <!-- Main Stackpanel -->
+                <StackPanel>
+                    <!-- Select File Stackpanel -->
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right"
+                                Height="30">
+                        <!-- Currently Playing -->
+                        <Label Width="275" HorizontalContentAlignment="Left">
+                            Currently Playing: 
+                        </Label>
+                        <Label Width="75">
+                            Select File
+                        </Label>
+                        <Button>
+                            <Image Source="Assets/folder.png" Height="25" Width="25"/>
+                        </Button>
+                    </StackPanel>
+                    <!-- Music Icon -->
+                    <Border CornerRadius="10" Background="#E9B384" Margin="25" 
+                            Height="250">
+                        <Image Source="Assets/music.png" ></Image>
+                    </Border>
+                    <!-- Buttons -->
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="100">
+                        <!-- Play Button -->
+                        <Button Margin="10" Height="50" Width="50">
+                            Play
+                        </Button>
+                        <!-- Pause -->
+                        <Button Margin="10" Height="50"  Width="50">
+                            Pause
+                        </Button>
+                        <!-- Stop -->
+                        <Button Margin="10" Height="50"  Width="50">
+                            Stop
+                        </Button>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+        </Label>
+        <!-- Bottom -->
+        <Label Height="50" Background="#E9B384">
+            SideNotes
+        </Label>
+    </StackPanel>
 </Window>
