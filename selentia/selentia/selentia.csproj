@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{7CF18E57-3900-4F35-82BA-496D655EFCA3}</ProjectGuid>
+        <ProjectGuid>{5E5D2A7C-BD56-4D4C-8250-CFC230A410C2}</ProjectGuid>
         <OutputType>WinExe</OutputType>
         <RootNamespace>selentia</RootNamespace>
         <AssemblyName>selentia</AssemblyName>
-        <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+        <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
         <WarningLevel>4</WarningLevel>

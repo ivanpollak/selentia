@@ -5,8 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:selentia"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
+        Title="MainWindow" Height="600" Width="400"
+        SizeToContent="WidthAndHeight" ResizeMode="NoResize">
         
-    </Grid>
 </Window>
