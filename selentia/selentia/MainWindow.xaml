@@ -38,13 +38,13 @@
                     <StackPanel Orientation="Horizontal" HorizontalAlignment="Right"
                                 Height="30">
                         <!-- Currently Playing -->
-                        <Label Width="275" HorizontalContentAlignment="Left">
+                        <Label Width="275" HorizontalContentAlignment="Left" Name="Action_Bar">
                             Currently Playing: 
                         </Label>
                         <Label Width="75">
                             Select File
                         </Label>
-                        <Button>
+                        <Button Name="FileSelection" Click="FileSelection_OnClick">
                             <Image Source="Assets/folder.png" Height="25" Width="25"/>
                         </Button>
                     </StackPanel>
@@ -56,16 +56,14 @@
                     <!-- Buttons -->
                     <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="100">
                         <!-- Play Button -->
-                        <Button Margin="10" Height="50" Width="50">
+                        <Button Margin="10" Height="50" Width="50" Name="Play_Button"
+                                Click="Play_Button_OnClick">
                             Play
                         </Button>
                         <!-- Pause -->
-                        <Button Margin="10" Height="50"  Width="50">
+                        <Button Margin="10" Height="50"  Width="50" Name="Pause_Button" 
+                                Click="Pause_Button_OnClick">
                             Pause
-                        </Button>
-                        <!-- Stop -->
-                        <Button Margin="10" Height="50"  Width="50">
-                            Stop
                         </Button>
                     </StackPanel>
                 </StackPanel>
