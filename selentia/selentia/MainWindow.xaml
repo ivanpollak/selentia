@@ -25,7 +25,7 @@
         <!-- Logo -->
         <Label Height="100" Width="400" Background="#7C9D96"
                Foreground="#F4F2DE" FontSize="40" >
-                LOGO
+            𝐒𝐄𝐋𝐄𝐍𝐓𝐈𝐀
         </Label>
         <!-- Body -->
         <Label Height="450" Width="400" Background="#F4F2DE"
@@ -58,12 +58,7 @@
                         <!-- Play Button -->
                         <Button Margin="10" Height="50" Width="50" Name="Play_Button"
                                 Click="Play_Button_OnClick">
-                            Play
-                        </Button>
-                        <!-- Pause -->
-                        <Button Margin="10" Height="50"  Width="50" Name="Pause_Button" 
-                                Click="Pause_Button_OnClick">
-                            Pause
+                            Start
                         </Button>
                     </StackPanel>
                 </StackPanel>
@@ -71,7 +66,7 @@
         </Label>
         <!-- Bottom -->
         <Label Height="50" Background="#E9B384">
-            SideNotes
+            Created by Ivan Pollak
         </Label>
     </StackPanel>
 </Window>

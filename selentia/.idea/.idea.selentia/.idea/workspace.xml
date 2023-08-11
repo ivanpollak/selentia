@@ -16,6 +16,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/019600bda569445a8437d274ee241410604dc0/15/22e8461d/CommonDialog.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ce12dc1aa9e14b919d8c1321c95d47fb35e718/fe/61b312eb/SoundPlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e84932cb409d42269fc72ad26f20391b532bb8/0c/67490785/NullReferenceException.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e84932cb409d42269fc72ad26f20391b532bb8/4f/ade090be/Boolean.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f8507cae17da4a048c26c1ad6a304248574b88/0b/265aecf2/Path.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -77,7 +78,8 @@
       <updated>1691589191930</updated>
       <workItem from="1691589194001" duration="1976000" />
       <workItem from="1691591221535" duration="261000" />
-      <workItem from="1691735295894" duration="3050000" />
+      <workItem from="1691735295894" duration="3218000" />
+      <workItem from="1691741484169" duration="739000" />
     </task>
     <servers />
   </component>
